@@ -14,3 +14,5 @@ val = np.sin(2 * np.pi * frequency * time)
 
 plt.plot(time, val)
 plt.show()
+
+print('Hello world')
